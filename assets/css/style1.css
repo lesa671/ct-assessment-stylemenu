@@ -85,3 +85,9 @@ address {padding: 10px;}
     Add a CSS ruleset targeting the footer to accomplish the following:
         - Draw a 2px dashed rosybrown border
 */
+
+footer address {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: rosybrown;
+}
