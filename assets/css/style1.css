@@ -6,6 +6,10 @@
     - cover the of the document background with the "map-bg.jpg" image in the images directory. 
 */
 
+body {
+    font-family: Lato;
+    font-size: 18px;
+}
 
 nav {font-family: sans-serif;font-size: 10px;}
 #main {width: 900px; margin: 10px auto;}
