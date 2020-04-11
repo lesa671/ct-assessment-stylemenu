@@ -37,6 +37,9 @@ h2 {margin-top: 0;}
         - Show each of the section headings of the menu in uppercase
 */
 
+#menu h2 {
+    text-transform: uppercase;
+}
 
 /* 
      Update the following ruleset (dt) to accomplish the following:
