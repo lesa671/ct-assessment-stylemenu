@@ -71,11 +71,15 @@ dd::after {content: " "; display: block; clear: both; margin-bottom: 15px;}
     - right align the text in the footer
 */
 
-
+footer address {
+    text-align: right;
+}
 
 /* 
     Add a CSS ruleset targeting the starters and desserts sections to accomplish the following:
     - draw a 2px black border around the sections
 */
 
-
+#starters, #desserts {
+    border: 2px black solid;
+}
