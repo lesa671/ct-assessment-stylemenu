@@ -21,6 +21,11 @@ nav {font-family: sans-serif; font-size: 10px;}
         - use a lighter weight font
 */
 
+header h1 {
+    font-family: 'Bungee Inline';
+    font-size: 46px;
+    font-weight: lighter;
+}
 
 #menu {columns: 420px 2; column-gap: 60px;}
 section {margin-bottom: 20px; padding: 10px;}
